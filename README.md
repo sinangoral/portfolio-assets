@@ -1,2 +1,2 @@
 # PortfolioAssets
-CVs, GIFs, PDFs, and other assets that need to be hosted on personal portfolio
+Light/dark mode CVs hosted on personal portfolio
