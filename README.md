@@ -1,6 +1,7 @@
-# PortfolioAssets
-Light/dark mode CVs that are referenced in personal portfolio
-  
-> Light Mode CV: https://sinangoral.github.io/PortfolioAssets/SinanGoral_CV_Light.pdf
+## Overview
+This repository is for hosting my light/dark mode CVs on my personal portfolio.
 
-> Dark Mode CV: https://sinangoral.github.io/PortfolioAssets/SinanGoral_CV_Dark.pdf
+## Links
+  
+- Light Mode CV: https://sinangoral.github.io/PortfolioAssets/SinanGoral_CV_Light.pdf
+- Dark Mode CV: https://sinangoral.github.io/PortfolioAssets/SinanGoral_CV_Dark.pdf
